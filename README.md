@@ -6,3 +6,4 @@ Git and GitHub(Obviously :))
 SSH
 AWS
 AWSCli
+Brew
